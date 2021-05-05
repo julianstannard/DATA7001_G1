@@ -1,0 +1,34 @@
+﻿Product,State,Area,Weather Station Name,Weather Station ID,Rainfall,Temp Max,Temp Min
+Beef,QLD,Fitzroy Basin (1),Emerald,035264,1,1,1
+Beef,QLD,Fitzroy Basin (1),Sapphire Post Office,035062,1,0,0
+Beef,QLD,Fitzroy Basin (1),Anakie Richardson St,035001,1,0,0
+Beef,QLD,Fitzroy Basin (1),Rockhampton Aero,039083,1,1,1
+Beef,QLD,Fitzroy Basin (1),Gracemere,039049,1,0,0
+Beef,QLD,Fitzroy Basin (1),Braudmeadows,039242,1,0,0
+Beef,QLD,North Queensland Dry Tropics (3),Charters Towers airport,034084,1,1,1
+Beef,QLD,North Queensland Dry Tropics (3),Mingela Post Office,033051,1,0,0
+Beef,QLD,North Queensland Dry Tropics (3),Townsville aero,032040,1,1,1
+Beef,QLD,Desert Channel (4),Birdsville Police station,038002,1,1,1
+Beef,QLD,Desert Channel (4),Birdsville Airport,038026,1,0,0
+Beef,QLD,Desert Channel (4),Bladensburg,037006,1,0,0
+Wheat,NSW,NA,Moree Airport,053115,1,1,1
+Wheat,NSW,NA,Pallamallawa Post Office,053033,1,0,0
+Wheat,NSW,NA,Brewarrina Hospital,048015,1,1,1
+Wheat,NSW,NA,Brewarrina (Yappalee),048176,1,0,0
+Wheat,NSW,NA,Bourke Airport,048245,1,1,1
+Wheat,NSW,NA,Forbes Airport,065103,1,1,1
+Wheat,NSW,NA,Forbes Muddy Water,065039,1,0,0
+Wheat,NSW,NA,Griffith Airport,075041,1,1,1
+Wheat,Vic,NA,Mildura Airport,076031,1,1,1
+Wheat,Vic,NA,Lake Victoria Storage,047016,1,1,1
+Wheat,SA,NA,Maitland,022008,1,1,1
+Wheat,WA,NA,Esperance,009789,1,1,1
+Wheat,WA,NA,Esperance Aero,009542,1,1,1
+Wheat,WA,NA,Ravensthorpe,010633,1,1,1
+Wheat,WA,NA,Dalwallinu,008297,1,1,1
+Sugar,Australia,NA,Cairns Aero,031011,1,1,1
+Sugar,Australia,NA,Ingham Composite,032078,1,1,1
+Sugar,Australia,NA,Innisfail ,032025,1,1,1
+Sugar,Australia,NA,Burdekin Shire ,033001,1,1,1
+Sugar,Australia,NA,Mackay,033119,1,1,1
+Sugar,Australia,NA,Bundaberg,039128,1,1,1
